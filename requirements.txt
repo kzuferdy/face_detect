@@ -1,9 +1,5 @@
-wheel
-numpy
-pandas
-plotly
-opencv-contrib-python
-cmake
-dlib
-face_recognition
 streamlit
+face-recognition
+pandas
+opencv-python
+numpy
